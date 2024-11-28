@@ -21,4 +21,5 @@ public class AddressResponse {
 		this.state = addressEntity.getState();
 		this.zipcode = addressEntity.getZipcode();
 	}
+	
 }

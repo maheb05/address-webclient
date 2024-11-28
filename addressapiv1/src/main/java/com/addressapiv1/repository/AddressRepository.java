@@ -8,4 +8,5 @@ import com.addressapiv1.entity.AddressEntity;
 @Repository
 public interface AddressRepository extends JpaRepository<AddressEntity, Long> {
 	
+	
 }

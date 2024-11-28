@@ -46,5 +46,4 @@ public class AddressServiceImpl implements AdderessService {
 				.collect(Collectors.toList());
 	}
 	
-	
 }

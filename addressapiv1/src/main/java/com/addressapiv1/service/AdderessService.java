@@ -10,4 +10,5 @@ public interface AdderessService {
 	public AddressResponse saveAddress(AddressRequest addressRequest);
 	public AddressResponse getAddressById(Long id);
 	public List<AddressResponse> getAllAddress();
+	
 }

@@ -20,6 +20,7 @@ import com.addressapiv1.service.AdderessService;
 @CrossOrigin(origins = "http://localhost:8080")
 public class AddressController {
 	
+	
 	@Autowired
 	AdderessService adderessService;
 	
